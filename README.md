@@ -18,7 +18,7 @@ esse é um projeto em back - end criado em Python usando o banco de dados SQLite
 # Como instalar
 
 1 - clone o repositorio de :
- https://github.com/Fabio-Erik/Desafio-t-cnico-pronto
+ https://github.com/Fabio-Erik/Gerenciador-de-tarefas
 
 2 - Entre na pasta do projeto:
 (Possivel caminho - pois isso dependerá de onde os **Dowloads** estão sendo armazenados em seu computador)
